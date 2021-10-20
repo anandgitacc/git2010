@@ -1,7 +1,5 @@
 package org.test;
 
-import org.testone.CompanyDetails;
-
 //          class
 public class EmployeeDetail {
 	
@@ -31,15 +29,6 @@ public class EmployeeDetail {
 		e.empName();
 		e.empId();
 		e.empMob();
-		
-		CompanyDetails cd = new CompanyDetails();
-		
-		cd.comName();
-		cd.comId();
-		
-		
-		
-		
 		
 	}
 
